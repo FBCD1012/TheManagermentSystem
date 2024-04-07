@@ -1,0 +1,51 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="TheManagermentSystem:war exploded">
+    <output-path>$PROJECT_DIR$/target/TheManagermentSystem-1.0-SNAPSHOT</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>TheManagermentSystem</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TheManagermentSystem" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:2.0.7" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:6.1.5" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:6.1.5" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:6.1.5" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:6.1.5" />
+          <element id="library" level="project" name="Maven: io.micrometer:micrometer-observation:1.12.4" />
+          <element id="library" level="project" name="Maven: io.micrometer:micrometer-commons:1.12.4" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:6.1.5" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:6.1.5" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:6.1.5" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:6.1.5" />
+          <element id="library" level="project" name="Maven: org.thymeleaf:thymeleaf-spring6:3.1.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.thymeleaf:thymeleaf:3.1.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.attoparser:attoparser:2.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.unbescape:unbescape:1.1.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-web:6.2.3" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-core:6.2.3" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-crypto:6.2.3" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-config:6.2.3" />
+          <element id="library" level="project" name="Maven: com.mysql:mysql-connector-j:8.3.0" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.25.1" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:6.0.10" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:6.0.10" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.5.9" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:3.0.3" />
+          <element id="library" level="project" name="Maven: jakarta.annotation:jakarta.annotation-api:2.1.1" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/TheManagermentSystem-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="TheManagermentSystem/web/Web" />
+    </root>
+  </artifact>
+</component>

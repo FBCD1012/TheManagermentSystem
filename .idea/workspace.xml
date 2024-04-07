@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TheManagermentSystem:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5ef0888-6d92-4e9a-ba0e-bc77d6df6a3a" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/TheManagermentSystem_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/TheManagermentSystem_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Configuration/DataSourceConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Configuration/MvcConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Configuration/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Controller/Advice/theExceptionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Controller/BorrowController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Entity/bookInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Entity/borrowInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Entity/studentInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Entity/userInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Initializer/SecurityInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Initializer/WebInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Listener/MysqlListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Mapper/bookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Mapper/borrowMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Mapper/studentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Mapper/userMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Service/Impl/userTestServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Service/userTestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Utils/nikeNameUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/add-book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/add-borrow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/deleteError.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/auth.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/calender.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/css2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/datatables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/icofont.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/jqvmap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/nice-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/range.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmEU9fBBc4.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmSU5fBBc4.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmWUlfBBc4.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmYUtfBBc4.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOmCnqEu92Fr1Mu4WxKOzY.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOmCnqEu92Fr1Mu4mxK.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOmCnqEu92Fr1Mu5mxKOzY.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOmCnqEu92Fr1Mu72xKOzY.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOmCnqEu92Fr1Mu7GxKOzY.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOmCnqEu92Fr1Mu7WxKOzY.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/KFOmCnqEu92Fr1Mu7mxKOzY.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/icofont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLBT5Z11lFc-K.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLDD4Z11lFc-K.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLFj_Z11lFc-K.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiEyp8kv8JHgFVrJJbecmNE.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiEyp8kv8JHgFVrJJfecg.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiEyp8kv8JHgFVrJJnecmNE.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiGyp8kv8JHgFVrLPTucHtA.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiGyp8kv8JHgFVrLPTucXtAKPY.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/pxiGyp8kv8JHgFVrLPTufntAKPY.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/auth-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/o_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/o_icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/o_icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/sad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/sort_asc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/sort_both.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/apexcharts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/calendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/ckeditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/control-chart-apexcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/dataTables.responsive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/datatables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery.appear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery.countTo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery.vmap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery.vmap.sampledata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery.vmap.world.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/nice-select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/range.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/tag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/tagging.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/auth-img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/carousal1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/carousal2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/carousal3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/carousal4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/carousal5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/carousal6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/carousal7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/carousal8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/carousal9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/p1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/p2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/p3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/p4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/p5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/p6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/p7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/p8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/pro1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/pro2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/pro3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/product2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/product3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/product4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/thumb1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/thumb2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/thumb3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/thumb4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/user1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/user2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/user3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/picture/user4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/students.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2eaC55hIjA2EFjCkeqpJjVKp92t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/theElementDemo/TheManagermentSystem/src/main/resources&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d31234b7cd9c0cc0996798e8d95a58b8&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\theElementDemo\TheManagermentSystem\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\theElementDemo\TheManagermentSystem\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 10.1.8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.8" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="TheManagermentSystem:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/TheManagermentSystem" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="1dcc7b3f-2fd6-4d42-a491-617cb3fe4f8d" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="25989" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JProfiler">
+        <option name="jreHome" value="$PROJECT_DIR$/../../java17" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JProfiler">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="TheManagermentSystem:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="a5ef0888-6d92-4e9a-ba0e-bc77d6df6a3a" name="变更" comment="" />
+      <created>1712133121756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712133121756</updated>
+      <workItem from="1712133123214" duration="3239000" />
+      <workItem from="1712136394537" duration="16545000" />
+      <workItem from="1712232165507" duration="2677000" />
+      <workItem from="1712318805662" duration="1956000" />
+      <workItem from="1712320824097" duration="881000" />
+      <workItem from="1712321932014" duration="6557000" />
+      <workItem from="1712407709067" duration="2945000" />
+      <workItem from="1712413464189" duration="10502000" />
+      <workItem from="1712469928543" duration="13731000" />
+      <workItem from="1712485595288" duration="1053000" />
+      <workItem from="1712490541831" duration="722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/Listener/MysqlListener.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
